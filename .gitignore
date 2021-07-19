@@ -244,3 +244,4 @@ dmypy.json
 
 # End of https://www.toptal.com/developers/gitignore/api/jupyternotebooks,pycharm+all,python
 .pytorch
+lightning_logs
